@@ -1,0 +1,19 @@
+Monstros :
+
+-Abelha Operário 
+6500 Vida com Veneno 1 e Ataque 650
+
+-Moitinho
+11000 Vida com Espinho 2 e Ataque 500
+
+-Planta Assassina
+17000 Vida com Espinho 2 e Ataque 1000
+
+-Rato
+5000 Vida com Ataque 400
+
+-Rato das Vinhas
+50000 Vida com Conjurando e Ataque 1100
+
+-Vinny
+20000 Vida com Defendendo 1300 Provocar 2 e Ataque 850

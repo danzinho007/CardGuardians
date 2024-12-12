@@ -1,0 +1,16 @@
+!!! Cartas do Louis !!!
+
+Vermelhas / Ataque :
+
+Corte Rápido ( 2 evoluções )
+Ataca 1x e se a próxima carta for uma de corte,  jogue ela 2x
+
+Azuis / Defesa :
+
+Bloqueio de Aegis ( 2 evoluções )
+Defenda 2x e no próximo turno mantaenha seu escudo
+
+Verdes :
+
+Imtimidor ( 3 evoluções )
+Gasta 1 fúria e ganha 1 fortalecer por ponto
