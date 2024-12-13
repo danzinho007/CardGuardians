@@ -1,16 +1,51 @@
 !!! Cartas do Louis !!!
 
+Deck Básico : 8 cartas
+
+Ataque :
+Corte = 3x
+Corte Diagonal = 1x
+Defesa :
+Defende = 3x
+Buff :
+Desafiar = 1x
+
+Resumo :
+Ataque 4 Defesa 3 Buff 1
+
+Outras :
+
 Vermelhas / Ataque :
+
+Corte ( 2 evoluções )
+Ataca 1x > Ataca 2x
+
+Corte Amplo ( 2 evoluções )
+Ataca todos inimigos > Ataca todos inimigos 2x
+
+Corte Diagonal ( 2 evoluções )
+Ataca 2x Fúria +1 > Ataca 2x Fúria +2
 
 Corte Rápido ( 2 evoluções )
 Ataca 1x e se a próxima carta for uma de corte,  jogue ela 2x
+
+Corte Tornado ( 2 evoluções )
+Ataca todos 2x por cartas Corte jogadas nesse turno >>
+Ataca todos 3x por cartas Corte jogadas nesse turno
 
 Azuis / Defesa :
 
 Bloqueio de Aegis ( 2 evoluções )
 Defenda 2x e no próximo turno mantaenha seu escudo
 
-Verdes :
+Defesas Rápidas ( 2 evoluções )
+Defende. Se o inimigo pretende Atacar : Ação +1
 
-Imtimidor ( 3 evoluções )
+Verdes / Buff :
+
+Intimidor ( 3 evoluções )
 Gasta 1 fúria e ganha 1 fortalecer por ponto
+
+Tentar novamente ( 2 evoluções )
+Descarte a sua mão : Ação +1
+Descarte a sua mão : Ação +2

@@ -16,5 +16,14 @@ Quando atacado com uma carta de ataque, fúria soma 1
 Espinhos
 No próximo turno, este inimigo receberá o status de Espinhos, caso 250/450 de dano ao receber um ataque, irá durar 2 turnos
 
-Veneno
+Exposto :
+Aumenta o dano de Ataque recebido pelo portador em 30%
+
+Fortalecer :
+No próximo turno, este inimigo aumentará seu dano em 5% por carga. Dura 2 turnos
+
+Provocar :
+No próximo turno, este inimigo usará Provocar, impedindo você de mudar seu alvo. Dura 3 turnos
+
+Veneno :
 No próximo turno, este inimigo usará Veneno em você, causando 176 de dano por 1 turno
