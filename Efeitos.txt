@@ -25,5 +25,8 @@ No próximo turno, este inimigo aumentará seu dano em 5% por carga. Dura 2 turn
 Provocar :
 No próximo turno, este inimigo usará Provocar, impedindo você de mudar seu alvo. Dura 3 turnos
 
+Revestido :
+No início do turno, o portador se defende 1x
+
 Veneno :
 No próximo turno, este inimigo usará Veneno em você, causando 176 de dano por 1 turno

@@ -13,6 +13,7 @@ Desafiar = 1x
 Resumo :
 Ataque 4 Defesa 3 Buff 1
 
+==========================
 Outras :
 
 Vermelhas / Ataque :
@@ -26,6 +27,10 @@ Ataca todos inimigos > Ataca todos inimigos 2x
 Corte Diagonal ( 2 evoluções )
 Ataca 2x Fúria +1 > Ataca 2x Fúria +2
 
+Corte Mestre ( 3 evoluções )
+Ataca por carta Corte no seu Baralho
++ Ação + 1
+
 Corte Rápido ( 2 evoluções )
 Ataca 1x e se a próxima carta for uma de corte,  jogue ela 2x
 
@@ -33,10 +38,23 @@ Corte Tornado ( 2 evoluções )
 Ataca todos 2x por cartas Corte jogadas nesse turno >>
 Ataca todos 3x por cartas Corte jogadas nesse turno
 
+Ombrada ( 2 evoluções )
+Ataca 2x por Defesa jogada nesse turno
+
+Quebrar Provocação ( 2 evoluções )
+Ataca 2x e remove todo o Provocar do inimigo
+Ataca 2x, remove todo o Provocar do inimigo e ação +1
+
 Azuis / Defesa :
 
 Bloqueio de Aegis ( 2 evoluções )
 Defenda 2x e no próximo turno mantaenha seu escudo
+
+Defesa Blindada ( 2 evoluções )
+Ganhe +2 Revestido por Carta jogada nesse turno
+
+Defesa Ecoante ( 2 evoluções )
+Defente e cria 2 Ecos de Corte
 
 Defesas Rápidas ( 2 evoluções )
 Defende. Se o inimigo pretende Atacar : Ação +1

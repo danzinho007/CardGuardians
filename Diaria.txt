@@ -7,10 +7,12 @@ Patrulha rápida 2/2 = 10 ( Propaganda + 25 gemas )
 
 Quadro de Procurados = 10
 Abrir 1 Baú na Loja = 10 ( Propaganda )
-Subir equipamento de nível = 10
+Subir qualquer equipamento de nível = 10
 
 Abrir 1 Pacote Caótico = 10
 Vença 10 combates = 20
 Recarregar gemas = 10 ( Propaganda )
 
-Total = 100 pontos
+Recarregar gemas caótias = 10 ( Propaganda )
+
+Total = 110 pontos

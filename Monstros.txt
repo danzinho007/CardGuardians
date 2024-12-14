@@ -17,3 +17,6 @@ Monstros :
 
 -Vinny
 20000 Vida com Defendendo 1300 Provocar 2 e Ataque 850
+
+Boss 5-10 : Rainha Beatriz
+59000 Vida com Conjurando
