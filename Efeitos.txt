@@ -1,5 +1,4 @@
-
-Card Guardians 
+Efeitos Card Guardians 
 
 Ataque Hemorrágico
 No próximo turno, este inimigo irá Atacar causando 540 de dano, se o ataque diminuir a vida, ele também causará sangramento

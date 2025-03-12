@@ -1,5 +1,19 @@
 Monstros :
 
+-Nome = 
+Mundo / HP / Ataque / Defesa / Especialidades
+
+-Abelha Operário  = ? 6500 / 650 / ??? / Veneno 1
+-Max,o Max-otauro = 1 6500
+-GoblinBravão     = 1 3900 / 120
+-MãeRato          = 1 3100 / 
+-ChefGoblin       = 1 2300 / ?   / 240 
+
+-Goblin           = 1 900
+-GosmaBoba        = 1 800 
+-Rato             = 1 600
+-Gosma            = 1 450
+
 -Abelha Operário 
 6500 Vida com Veneno 1 e Ataque 650
 

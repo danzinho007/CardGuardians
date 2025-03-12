@@ -1,3 +1,7 @@
+
+
+
+
 Mundo 5 :
 
 5-1 = Abelha Operário 6000 Vida
@@ -19,19 +23,20 @@ Prêmio : Carta adicional + Covil / Oficina
 Defender = 1000 / 850 / Espinho / 850 / 
 Prêmio : Carta adicional + Covil / Oficina
 
-5-7 = Rato das Vinhas
-Defender = X / X / 
-Prêmio : Carta adicional
-
-5-8 = Abelha Operário e Vinny
-Defender = X / 500 / 850 / 
-Prêmio : Carta adicional + Remover / Duplicar
-
-5-9 = Planta Assassina + Abelha Operário
-Defender = 1000 / 500 / 
-
-5-10 = 2x Abelha Operário e Vinny
-Defender = X / 1300 / 
-
 5-11 = Rainha Beatriz
 Defender = X / 1500 / 
+
+
+Mundo 8 :
+
+6/10 = General das Vinhas 
+Defender = 2550 / X / 2709 
+Prêmio :  nada
+
+7/10 = 3x Guarda Medroso
+Defender = X / 3900 / 
+Prêmio : Carta adicional
+
+8/10 = Planta Assassina + Abelha Operário + Vinny
+Defender = 2800 / 1400 / 2200 / 4200 /  
+Prêmio : 

@@ -18,6 +18,9 @@ Outras :
 
 Vermelhas / Ataque :
 
+Arremessar Pedra ( 2 evoluções )
+Ataca 2x + Aplique 2 Exposto > Ataca 3x + Aplique 3 Exposto
+
 Corte ( 2 evoluções )
 Ataca 1x > Ataca 2x
 
