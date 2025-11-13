@@ -5,10 +5,12 @@ Deck Básico : 8 cartas
 Ataque :
 Corte = 3x
 Corte Diagonal = 1x
+Alma do Espadachim = 1x
 Defesa :
 Defende = 3x
 Buff :
 Desafiar = 1x
+Fúria Engarrafada = 1x
 
 Resumo :
 Ataque 4 Defesa 3 Buff 1
@@ -44,9 +46,11 @@ Ataca todos 3x por cartas Corte jogadas nesse turno
 Ombrada ( 2 evoluções )
 Ataca 2x por Defesa jogada nesse turno
 
-Quebrar Provocação ( 2 evoluções )
-Ataca 2x e remove todo o Provocar do inimigo
-Ataca 2x, remove todo o Provocar do inimigo e ação +1
+Pico de Poder ( 3 evoluções )
+Ganhe +2 Fortalecer 
+Ataca 1x por Fortalecer 
+>>
+Ganhe +4 Fortalecer
 
 Azuis / Defesa :
 
@@ -66,6 +70,10 @@ Verdes / Buff :
 
 Intimidor ( 3 evoluções )
 Gasta 1 fúria e ganha 1 fortalecer por ponto
+
+Quebrar Vontade ( 2 evoluções )
+Aplique 2 Exposto, Fraqueza e Cegueira 
+1-Ação + 1
 
 Tentar novamente ( 2 evoluções )
 Descarte a sua mão : Ação +1
